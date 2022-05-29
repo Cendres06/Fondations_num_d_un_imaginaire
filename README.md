@@ -8,3 +8,6 @@ Cette version est actuellement obsolète et devra être remaniée suite à la m�
 
 #Mini_memoire
 Mémoire de M1.
+
+#SCPCreativeMaps_rapport
+Rapport conceptuel portant sur la création d'un site Internet mappant les entités nommées à travers l'univers. Pourrait évoluer jusqu'à devenir une initiative commune, mais pour l'instant il faut surtout créer un prototype...
